@@ -1,2 +1,9 @@
 # GenderClassifiers
-Machine learning from beginner to pro 
+Gender Classification Task
+
+# Dependencies
+*Scikit-learn
+*numpy
+
+# How to use
+python Gender_Classificartion.py
