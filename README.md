@@ -6,4 +6,4 @@ Gender Classification Task
 * numpy
 
 ## How to use
-python Gender_Classificartion.py
+python Gender_Classification.py
